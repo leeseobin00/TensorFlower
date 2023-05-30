@@ -1,0 +1,151 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 144850368,
+            "tagId": 30667728,
+            "name": "multipart-person",
+            "value": null,
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T11:00:14.644Z",
+            "updatedAt": "2023-05-29T11:00:14.644Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 533
+    },
+    "objects": [
+        {
+            "id": 1336318002,
+            "classId": 11601346,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T10:59:21.936Z",
+            "updatedAt": "2023-05-29T11:00:06.825Z",
+            "tags": [
+                {
+                    "id": 206755758,
+                    "tagId": 30667728,
+                    "name": "multipart-person",
+                    "value": null,
+                    "labelerLogin": "leeseobin00",
+                    "createdAt": "2023-05-29T11:00:17.665Z",
+                    "updatedAt": "2023-05-29T11:00:17.665Z"
+                }
+            ],
+            "classTitle": "person",
+            "nodes": {
+                "4d4f02af-3479-4a0c-89dd-e5de7589aaea": {
+                    "loc": [
+                        267.5789593435816,
+                        366
+                    ]
+                },
+                "c72683e0-12e3-43e8-b1af-56923f0d385b": {
+                    "loc": [
+                        260,
+                        422
+                    ]
+                },
+                "fd018d23-93a6-4e4e-b901-cea0c59f9d13": {
+                    "loc": [
+                        211,
+                        423
+                    ]
+                },
+                "f817aebb-4398-453e-89b9-8d2a3d159b32": {
+                    "loc": [
+                        297,
+                        427
+                    ]
+                },
+                "15f06542-b104-47ac-9f44-8636c16efbd8": {
+                    "loc": [
+                        202,
+                        492
+                    ]
+                },
+                "a34c894b-0d5f-4692-8fb0-19f0a7846ba8": {
+                    "loc": [
+                        199.19149329503279,
+                        556.1109582760203
+                    ]
+                },
+                "c5dba117-b7c5-4150-aa39-6d003381677c": {
+                    "loc": [
+                        312,
+                        491
+                    ]
+                },
+                "5bec527f-7bc1-41fc-9333-f2be77184e05": {
+                    "loc": [
+                        343,
+                        514
+                    ]
+                },
+                "bbfb5d47-f3fa-4c5e-9768-ec3aefa0456f": {
+                    "loc": [
+                        268,
+                        528
+                    ]
+                },
+                "fb238bdc-51e0-4cfa-87d1-de043587922c": {
+                    "loc": [
+                        229,
+                        543
+                    ]
+                },
+                "de31e321-4c54-4264-be3c-35553f32a5bf": {
+                    "loc": [
+                        303,
+                        540
+                    ]
+                },
+                "4e5b3a8c-a7d3-4b4c-a1f7-3979872bf340": {
+                    "loc": [
+                        249,
+                        636
+                    ]
+                },
+                "c43b8c92-bfaf-4e81-9df1-a0e11a95a335": {
+                    "loc": [
+                        299,
+                        640
+                    ]
+                },
+                "32bd6345-4744-46bb-ba72-76f8a1d882fc": {
+                    "loc": [
+                        255,
+                        719
+                    ]
+                },
+                "b02b27ee-cc0c-4bf2-ab98-05934f16d4f4": {
+                    "loc": [
+                        284,
+                        714
+                    ]
+                }
+            }
+        },
+        {
+            "id": 1335576067,
+            "classId": 11601344,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-28T14:41:33.914Z",
+            "updatedAt": "2023-05-28T14:41:33.914Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwB6QMW/IlQTkcNChoKAAAADUlIRFIAAACuAAABeQEDAAAAPI6DjgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAORSURBVHic5dk7kpwwEAZgKAKFSh1ZV/ANOJrkk/goZsuBQx/B8g0UElDIIAkhqX8e2sX2VnmC2Zpvtpq/m8fwaBr/aucGvZg1iIWdEPcWVrHWKqrdwgNaorWaMl94REEsWma/sKUsLYyyKl1m69ig2CAKc0ymcsDcMQkuMLtuaD+BVcESs1cy8cA61xZzF9jkzAKPt5gHLoYizrkYSui9HIq8YJXxpvlQ2ivWKXeYWRVzzCLycIP7K86ajyPJRxV1xpyty30kJuXuirMiDPM+kukGC8x77/MNllecjcpCbhNWl9xhZlXMEx4uWeAifcJwUtlMDljiIo+wvWb1LLc3eHiCdRWbyN3reazi6YrTLTPZIu6wPWBVxQPmOEKesaniEfNUxTPm2L24xaqKhyrWVWwwj5hnzFvwkkPC/h7ryF9BwoW/gIQL841+2rjaUv6xB184bljf1zfPsmQVeI77ybc9uE34ZQ+e8rAnJDxRljFhxn1MmLGICVPWIkbJmMUZZtzFhBm3MeHC8XBl3JF1piy3hGkR49esIsy3GebcbcGXJUce/Q+IoSxC8IVZwgxzG/pJefKrfAYsfD8lM9/P8oGn3Ph+llI5966flN3suOsnZTe7LnQ7iYwbV4yyXItlrMIyz7iPPIQ9VQHm69+MdWC9LlfmzAib0I/bMiiP2UmB3/zatU3KzSnPO09hKMV/n3Jfst/5BGaGuSvZr54WcyNHyLxk5f0T5uYeD0+wfoLNEzw+wdPf5/nvs73gHrOoYp6zCswwd1VcLDNynnz4lywfZ/1fsHmW7fvk8d3wQUAFObnfgmtUXotLzMJXbQtmmMNd5ANuTjhVd7x617xOZXAjewNzzJ3153rlnVeJWWBm/jyy5DZweWNcYhYzZGbdZlRy65ncopfurJ6wwNy5CZiSmyNmd/nDVkRn/NG9ExZqfe8Ju4+8vJ8vxlA8Z75dJRa8neuXrJNvEw7Fc2bbJWjJoXhTsi9OGDzcWRtBD5S6cv+95M/UV34xhNdt4YU+3HJMq3vWmGkVx/S5lOcBM5mLZzIX6e8qlBEDl8UX/gW4f4KXQ4EGSeqY17IBzE65ASxvc/cQj4DbJ7h5iCfE8hmeEfdHbN/O62/gIas/wj1m+Qoe3sb9GeuSxSvY4NrkGOaZHCA9Vz7/HmASkjBwmZBbmDBck9IzDsgd5uaA5Vn3ZFZrQkEnu0ZpmC65+Mn8DVYEQB6/FVYRAAAAAElFTkSuQmCCavzoXg==",
+                "origin": [
+                    197,
+                    364
+                ]
+            }
+        }
+    ]
+}

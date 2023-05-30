@@ -1,0 +1,133 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 144811691,
+            "tagId": 30667728,
+            "name": "multipart-person",
+            "value": null,
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T08:06:47.733Z",
+            "updatedAt": "2023-05-29T08:06:47.733Z"
+        }
+    ],
+    "size": {
+        "height": 2448,
+        "width": 3696
+    },
+    "objects": [
+        {
+            "id": 1335607055,
+            "classId": 11601346,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T06:47:25.747Z",
+            "updatedAt": "2023-05-29T06:49:03.409Z",
+            "tags": [
+                {
+                    "id": 206704859,
+                    "tagId": 30667728,
+                    "name": "multipart-person",
+                    "value": null,
+                    "labelerLogin": "leeseobin00",
+                    "createdAt": "2023-05-29T08:06:52.447Z",
+                    "updatedAt": "2023-05-29T08:06:52.447Z"
+                }
+            ],
+            "classTitle": "person",
+            "nodes": {
+                "4d4f02af-3479-4a0c-89dd-e5de7589aaea": {
+                    "loc": [
+                        1348,
+                        834
+                    ]
+                },
+                "c72683e0-12e3-43e8-b1af-56923f0d385b": {
+                    "loc": [
+                        1330,
+                        1056
+                    ]
+                },
+                "fd018d23-93a6-4e4e-b901-cea0c59f9d13": {
+                    "loc": [
+                        1456,
+                        1073
+                    ]
+                },
+                "f817aebb-4398-453e-89b9-8d2a3d159b32": {
+                    "loc": [
+                        1172,
+                        1067
+                    ]
+                },
+                "15f06542-b104-47ac-9f44-8636c16efbd8": {
+                    "loc": [
+                        1676,
+                        1192
+                    ]
+                },
+                "a34c894b-0d5f-4692-8fb0-19f0a7846ba8": {
+                    "loc": [
+                        1591,
+                        1020
+                    ]
+                },
+                "c5dba117-b7c5-4150-aa39-6d003381677c": {
+                    "loc": [
+                        1377,
+                        1152
+                    ]
+                },
+                "5bec527f-7bc1-41fc-9333-f2be77184e05": {
+                    "loc": [
+                        1503,
+                        1051
+                    ]
+                },
+                "bbfb5d47-f3fa-4c5e-9768-ec3aefa0456f": {
+                    "loc": [
+                        1382,
+                        1602
+                    ]
+                },
+                "fb238bdc-51e0-4cfa-87d1-de043587922c": {
+                    "loc": [
+                        1559,
+                        1654
+                    ]
+                },
+                "de31e321-4c54-4264-be3c-35553f32a5bf": {
+                    "loc": [
+                        1262,
+                        1628
+                    ]
+                },
+                "4e5b3a8c-a7d3-4b4c-a1f7-3979872bf340": {
+                    "loc": [
+                        1593,
+                        1921
+                    ]
+                },
+                "c43b8c92-bfaf-4e81-9df1-a0e11a95a335": {
+                    "loc": [
+                        1424,
+                        1906
+                    ]
+                },
+                "32bd6345-4744-46bb-ba72-76f8a1d882fc": {
+                    "loc": [
+                        1525,
+                        2305
+                    ]
+                },
+                "b02b27ee-cc0c-4bf2-ab98-05934f16d4f4": {
+                    "loc": [
+                        1363,
+                        2234
+                    ]
+                }
+            }
+        }
+    ]
+}

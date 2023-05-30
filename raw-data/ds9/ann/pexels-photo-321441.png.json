@@ -1,0 +1,151 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 144850370,
+            "tagId": 30667728,
+            "name": "multipart-person",
+            "value": null,
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T11:02:17.198Z",
+            "updatedAt": "2023-05-29T11:02:17.198Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 1422
+    },
+    "objects": [
+        {
+            "id": 1336318230,
+            "classId": 11601346,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T11:00:27.950Z",
+            "updatedAt": "2023-05-29T11:01:07.029Z",
+            "tags": [
+                {
+                    "id": 206755759,
+                    "tagId": 30667728,
+                    "name": "multipart-person",
+                    "value": null,
+                    "labelerLogin": "leeseobin00",
+                    "createdAt": "2023-05-29T11:02:12.152Z",
+                    "updatedAt": "2023-05-29T11:02:12.152Z"
+                }
+            ],
+            "classTitle": "person",
+            "nodes": {
+                "4d4f02af-3479-4a0c-89dd-e5de7589aaea": {
+                    "loc": [
+                        956.0937060053185,
+                        140
+                    ]
+                },
+                "c72683e0-12e3-43e8-b1af-56923f0d385b": {
+                    "loc": [
+                        963,
+                        257
+                    ]
+                },
+                "fd018d23-93a6-4e4e-b901-cea0c59f9d13": {
+                    "loc": [
+                        1030,
+                        269
+                    ]
+                },
+                "f817aebb-4398-453e-89b9-8d2a3d159b32": {
+                    "loc": [
+                        887,
+                        280
+                    ]
+                },
+                "15f06542-b104-47ac-9f44-8636c16efbd8": {
+                    "loc": [
+                        1055,
+                        368
+                    ]
+                },
+                "a34c894b-0d5f-4692-8fb0-19f0a7846ba8": {
+                    "loc": [
+                        1092,
+                        315
+                    ]
+                },
+                "c5dba117-b7c5-4150-aa39-6d003381677c": {
+                    "loc": [
+                        873,
+                        396
+                    ]
+                },
+                "5bec527f-7bc1-41fc-9333-f2be77184e05": {
+                    "loc": [
+                        840,
+                        315
+                    ]
+                },
+                "bbfb5d47-f3fa-4c5e-9768-ec3aefa0456f": {
+                    "loc": [
+                        964,
+                        469
+                    ]
+                },
+                "fb238bdc-51e0-4cfa-87d1-de043587922c": {
+                    "loc": [
+                        1013,
+                        471
+                    ]
+                },
+                "de31e321-4c54-4264-be3c-35553f32a5bf": {
+                    "loc": [
+                        911,
+                        483
+                    ]
+                },
+                "4e5b3a8c-a7d3-4b4c-a1f7-3979872bf340": {
+                    "loc": [
+                        978,
+                        505
+                    ]
+                },
+                "c43b8c92-bfaf-4e81-9df1-a0e11a95a335": {
+                    "loc": [
+                        902,
+                        516
+                    ]
+                },
+                "32bd6345-4744-46bb-ba72-76f8a1d882fc": {
+                    "loc": [
+                        996,
+                        613
+                    ]
+                },
+                "b02b27ee-cc0c-4bf2-ab98-05934f16d4f4": {
+                    "loc": [
+                        927,
+                        615
+                    ]
+                }
+            }
+        },
+        {
+            "id": 1335576066,
+            "classId": 11601344,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-28T14:41:33.914Z",
+            "updatedAt": "2023-05-28T14:41:33.914Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBWwek+IlQTkcNChoKAAAADUlIRFIAAAEhAAACKAEDAAAAHDTPDQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAcDSURBVHic7dxdktwmEABgqZQqPXKDcBRyrDwF+QS5Ej5BjhB8A1J5kSuKyPCnH2ia1kQ7u07Mw+zu6LMETUsCNOOuK8poVflmUYTVbdRbO7cVs3ZpK2nt2kSDfZSJcEDbbqRwSreUQ81GjiTFvWqFQnrVCkVQtqECagWMpPqoFElpVA0kNd6o2I2Kk5QkKUtRPUkNJMVIKjUR7+3URDxzLEVtTUQzmqa2QKDn0HhNoWctIylOOqK4UUmS2oKKRpWkepIadjXV1fieSr1GsRsVv6p0XYmXK/lNK/ueynxX/3Ulv6tYxK70R1L8qlL/VrG3UVNdHe5pdXRQ2KjjqsJGVvt4ApuB7cqQlEZUf1EpRNEGyLvC0H4SkRQ+yRSE0F9V+BSZEzqIOv+iKUbpoE1NN6iU0igiquGKaqwo0FR/RRFXJ25RkhJ7ohKUnCAqTlKMkqspKW5RA+VMS/uiqcbyFyOlTjptJ5LSwLaftt9iD50qpv3mHzqzvRNz4lixwfjNP3bbv4Qu5Vz7zb9026Vvv13tuxdf3OZh7bcM5pvar5ni85opuak99cUn9/u4q8N8e4+FnFz0nJryah12JpVryrgOSYmjMpuSynXdpqwFdma11Ec1npVJSpij4mcV42+NmJ1KtbdZie32iic15moKapZefQp/81ypk/oc/ha50kEtTgn7paJMUKtc3MY/gpK5mlOvefW1onxeDEktQeUoUytJhTb3hVqfUhpUFlDDs2oqVdHZQY03KVUekcEq9iOvKx275KB4RYmWMjGFl3AkAyVhVIykxpOSpZpjF5HVGFWJQhr2RwUkDqCAlAhpGNRAVhrs7C2ld8UAZfd49Q3FjopDasqVqCkeItJQ4qgkpFSuIOSVDBGRPqpVZQ8K6sZSQR0UMp2k/EFCI2awG0vFamqISrbVFBUHldmVdcGtqvGKco1YK2reVGgErOLp+lAjotZNhR+wsjGHG2pKSrgfqqJU2DyFJKUpzVAVk7SmdNhJVKaq3OvaUKaPyu9yrinfM/HeYZeaGikqHGOOXbDWFI8qbK8pfyST1K+wWmRU4Rz7raL8azpJ7O+w+npWlfKXf1Xw7SArCr61ZGUiK9lUHVmJFlo7+Lb+jFo6eLhxLjNJpaHAHUrHmyleFF01k8J1Y7u7O4qK8w95h4oTO4Gr+YriuDIkpYNiuFJBNbqbpkIHtbq7o6g0QceTYpvGo2ohqW36L0lKYMqQlE6KY0olxTA1XVNoRyaEdtG+goJ10UJShzUbcPvfuZLgsfyraSn/rt6VAJV/V+2Kg8q/O7UUc687grtoGTMFdtESRowtFaeheEcuceSPd5EfxOq2Ytm6p00dciizq8gR+RG3LFSfLRyKRz1L1cnzYwhXT0AJc1Kunnm9nNAn9QjrBKlzca1pK9eatupCr7XUz+UpAqjuVlX0+OsVuNxcKPCxVKHAReknFfikolQTSSmS0tAh/5fKQErmCkydYl9Q6lRWO7NSWcfMSmXtMSucpARJFYGAwgpdzEsF3T5KBd2KTKEYSQFNBBTQRKC7AVQq8K5WKPA+WijwnkxTRRpySBVpCCuVKQEqQwhqWX0Q5RfN2phvage1qH5txHquGKuoc8V4RZ0rJmpKk9RMOuJKUqeK1ZUmqZmkVpI6VozVlSYpQ1Lzeypk3nSnWt5TIbO+16v1bRQyG/0GFLKQsStFUb3GFkW2mJLUaCiKGWyBZYqKz5hSUQlU6age00RRVyYFHlVzSi5UxZRm1adIRyVwlT4h8aggokJYR6cYonxYuQsJpnxYZUvpmIAKXUQyMZnbKjyJbSnmFbYgZbr0RL2lhK0/fwxlDoEgKEtWc3MJrK2WS2r5YGq9WUmSEiTFmsqGE+2RXy3V+122VFf9YMRJie1hN6Z480nY5CuG3zyOwzmakjcq8SK1ofaFtaXWq4rV1XJVIUlxmnsIkqq2wHRFAS7WgAKYBtSzK1wKUkVbQVW0dIIUI6ni0g+hspGgyk+Uysdnn1LlAhezBCXTh2yOJUuc9JEXVI0WVuZGpUlKwYqfUBbU4aT+rATirEzao0ZVSo0JVTEb877uMwX/DwaFGoFqlcoHbqopllQPpGCpwJL644LKa/0mSl5SYDTfRIkPqvgbqAHNCR73gSv2QdV4XVW/cPF6NUTVv1aZluqPCnwW+AFU9SsxT6j696RSXt2l0vS0/lWdJ5S6RfUXlL5RmVvUgKqerpb3UONHVCtVsdcqe03phuK3qamhuktKvFgpopIvVvHj6NUrU39J2QtqeoEK1wfdX1EV9BYq/KjeRcf7VX9BVUcKr1enqOLjr6QMrlTjJpquOWhCb9cvNL22kQuaEt3xGx/VQKSF4m3wUSlj2IwGoosPSPwuNaK4P9KIBaJzcU27zDb8A5fR8mB0mAoJAAAAAElFTkSuQmCC0yZ4+g==",
+                "origin": [
+                    818,
+                    113
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 144850378,
+            "tagId": 30667728,
+            "name": "multipart-person",
+            "value": null,
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T11:09:33.870Z",
+            "updatedAt": "2023-05-29T11:09:33.870Z"
+        }
+    ],
+    "size": {
+        "height": 3456,
+        "width": 5184
+    },
+    "objects": [
+        {
+            "id": 1335614830,
+            "classId": 11601343,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T07:37:28.160Z",
+            "updatedAt": "2023-05-29T07:37:28.160Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        5183,
+                        1003
+                    ],
+                    [
+                        5183,
+                        1735
+                    ],
+                    [
+                        5183,
+                        981
+                    ],
+                    [
+                        5173,
+                        1029
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1336318971,
+            "classId": 11601346,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "leeseobin00",
+            "createdAt": "2023-05-29T11:07:42.199Z",
+            "updatedAt": "2023-05-29T11:09:10.892Z",
+            "tags": [
+                {
+                    "id": 206755776,
+                    "tagId": 30667728,
+                    "name": "multipart-person",
+                    "value": null,
+                    "labelerLogin": "leeseobin00",
+                    "createdAt": "2023-05-29T11:09:31.070Z",
+                    "updatedAt": "2023-05-29T11:09:31.070Z"
+                }
+            ],
+            "classTitle": "person",
+            "nodes": {
+                "4d4f02af-3479-4a0c-89dd-e5de7589aaea": {
+                    "loc": [
+                        1821.6650004977178,
+                        2256
+                    ]
+                },
+                "c72683e0-12e3-43e8-b1af-56923f0d385b": {
+                    "loc": [
+                        1636,
+                        2466
+                    ]
+                },
+                "fd018d23-93a6-4e4e-b901-cea0c59f9d13": {
+                    "loc": [
+                        1734,
+                        2536
+                    ]
+                },
+                "f817aebb-4398-453e-89b9-8d2a3d159b32": {
+                    "loc": [
+                        1480,
+                        2504
+                    ]
+                },
+                "15f06542-b104-47ac-9f44-8636c16efbd8": {
+                    "loc": [
+                        2049,
+                        2774
+                    ]
+                },
+                "a34c894b-0d5f-4692-8fb0-19f0a7846ba8": {
+                    "loc": [
+                        1884,
+                        2517
+                    ]
+                },
+                "c5dba117-b7c5-4150-aa39-6d003381677c": {
+                    "loc": [
+                        1642,
+                        2720
+                    ]
+                },
+                "5bec527f-7bc1-41fc-9333-f2be77184e05": {
+                    "loc": [
+                        1668,
+                        2494
+                    ]
+                },
+                "bbfb5d47-f3fa-4c5e-9768-ec3aefa0456f": {
+                    "loc": [
+                        1426,
+                        3184
+                    ]
+                },
+                "fb238bdc-51e0-4cfa-87d1-de043587922c": {
+                    "loc": [
+                        1595,
+                        3152
+                    ]
+                },
+                "de31e321-4c54-4264-be3c-35553f32a5bf": {
+                    "loc": [
+                        1394,
+                        3140
+                    ]
+                },
+                "4e5b3a8c-a7d3-4b4c-a1f7-3979872bf340": {
+                    "loc": [
+                        2002,
+                        2828
+                    ]
+                },
+                "c43b8c92-bfaf-4e81-9df1-a0e11a95a335": {
+                    "loc": [
+                        1722,
+                        2819
+                    ]
+                },
+                "32bd6345-4744-46bb-ba72-76f8a1d882fc": {
+                    "loc": [
+                        2173,
+                        3175
+                    ]
+                },
+                "b02b27ee-cc0c-4bf2-ab98-05934f16d4f4": {
+                    "loc": [
+                        1744,
+                        3137
+                    ]
+                }
+            }
+        }
+    ]
+}
