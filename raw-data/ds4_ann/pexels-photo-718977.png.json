@@ -1,0 +1,133 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 144811719,
+            "tagId": 30667720,
+            "name": "multipart-person",
+            "value": null,
+            "labelerLogin": "Wonjae98",
+            "createdAt": "2023-05-29T08:37:10.230Z",
+            "updatedAt": "2023-05-29T08:37:10.230Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 1335632878,
+            "classId": 11601321,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "Wonjae98",
+            "createdAt": "2023-05-29T08:37:31.095Z",
+            "updatedAt": "2023-05-29T08:39:04.153Z",
+            "tags": [
+                {
+                    "id": 206704940,
+                    "tagId": 30667720,
+                    "name": "multipart-person",
+                    "value": null,
+                    "labelerLogin": "Wonjae98",
+                    "createdAt": "2023-05-29T08:37:34.929Z",
+                    "updatedAt": "2023-05-29T08:37:34.929Z"
+                }
+            ],
+            "classTitle": "person",
+            "nodes": {
+                "4d4f02af-3479-4a0c-89dd-e5de7589aaea": {
+                    "loc": [
+                        579,
+                        78
+                    ]
+                },
+                "c72683e0-12e3-43e8-b1af-56923f0d385b": {
+                    "loc": [
+                        580,
+                        157
+                    ]
+                },
+                "fd018d23-93a6-4e4e-b901-cea0c59f9d13": {
+                    "loc": [
+                        521,
+                        177
+                    ]
+                },
+                "f817aebb-4398-453e-89b9-8d2a3d159b32": {
+                    "loc": [
+                        637,
+                        191
+                    ]
+                },
+                "15f06542-b104-47ac-9f44-8636c16efbd8": {
+                    "loc": [
+                        474,
+                        284
+                    ]
+                },
+                "a34c894b-0d5f-4692-8fb0-19f0a7846ba8": {
+                    "loc": [
+                        459,
+                        412
+                    ]
+                },
+                "c5dba117-b7c5-4150-aa39-6d003381677c": {
+                    "loc": [
+                        665,
+                        319
+                    ]
+                },
+                "5bec527f-7bc1-41fc-9333-f2be77184e05": {
+                    "loc": [
+                        747,
+                        378
+                    ]
+                },
+                "bbfb5d47-f3fa-4c5e-9768-ec3aefa0456f": {
+                    "loc": [
+                        541,
+                        376
+                    ]
+                },
+                "fb238bdc-51e0-4cfa-87d1-de043587922c": {
+                    "loc": [
+                        538,
+                        384
+                    ]
+                },
+                "de31e321-4c54-4264-be3c-35553f32a5bf": {
+                    "loc": [
+                        557,
+                        371
+                    ]
+                },
+                "4e5b3a8c-a7d3-4b4c-a1f7-3979872bf340": {
+                    "loc": [
+                        644,
+                        529
+                    ]
+                },
+                "c43b8c92-bfaf-4e81-9df1-a0e11a95a335": {
+                    "loc": [
+                        487,
+                        554
+                    ]
+                },
+                "32bd6345-4744-46bb-ba72-76f8a1d882fc": {
+                    "loc": [
+                        696,
+                        724
+                    ]
+                },
+                "b02b27ee-cc0c-4bf2-ab98-05934f16d4f4": {
+                    "loc": [
+                        379,
+                        678
+                    ]
+                }
+            }
+        }
+    ]
+}
